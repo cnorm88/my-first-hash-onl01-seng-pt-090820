@@ -2,9 +2,6 @@ def my_hash
   your_hash = {"pet" => "cat", "name" => "sesame"}
 end
 
-  
-end
-
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
